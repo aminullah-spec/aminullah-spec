@@ -1,4 +1,4 @@
-## Hi there 👋
+## aminullah-spec
 
 <!--
 **aminullah-spec/aminullah-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
